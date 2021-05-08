@@ -10,7 +10,7 @@ github_repo: "https://github.com/Acdimy/Acdimy.github.io.git"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "青年学生与哲学爱好者"
+sidebar-about-description: "左翼青年学生"
 sidebar-avatar: /img/about-DAC-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings      
